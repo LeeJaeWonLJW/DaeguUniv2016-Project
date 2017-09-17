@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Project Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        /*문서 전체*/
+        margin:0;
+        padding:0;
+        font-family:"바탕";
+        font-size:1em;
+      }
+      a:link {
+        text-decoration:none;  /* 텍스트 밑줄 제거*/
+      }
+      a img {
+        border:0;   /* 이미지 테두리 제거j*/
+      }
+      body {
+        background:#FFFFFF no-repeat left top fixed;   /* 문서 배경 */
+        background-size:cover ;  /* 배경 이미지 css 관련 */
+      }
+
+      #wrapper {
+        margin: 0 auto;   /* 화면 중앙 */
+        width: 90%;  /* 브라우저 90% */
+        background:white;   /* 배경색 */
+        border: 1px solid #ccc;  /* 테두리 */
+      }
+
+      /* small size css */
+      nav {
+        width: 100%;
+        height:50px;
+        background-color: #C51A3A;
+        margin: 0;
+        padding-top:1px;
+      }
+      nav ul {
+        list-style:none;
+        text-align:center;
+      }
+      nav ul li{
+       float:left;
+      }
+      nav ul li a, nav ul li a:visited {
+        padding:15px 10px;
+        font-weight: 600;
+        color: white;
+        text-shadow:0 0.5px 0.5px red;  /* 그림자 효과 */
+      }
+      nav li a:hover {
+        color:red;
+        background-color:white;
+        text-shadow:0 0.5px 1px white;
+        border-radius:10px 10px 0 0;
+      }
+      footer {
+	      width: 100%;
+	      height: 50px;
+        border-top: 1px solid #ccc;
+      }
+      footer ul {
+	      list-style:none;
+	      margin:0;
+      }
+      footer ul li a{
+	      float:left;
+	      font-size:0.8em;
+	      padding:15px 5px;
+	      color:#222;
+      }
+      footer p{
+	      float:right;
+	      text-align:left;
+	      font-size:0.8em;
+	      padding-right:5px;
+      }
+      /* 공지사항 */
+      .section_ul{position:relative;border:1px solid #ddd;background:#fff;font-size:12px;font-family:Tahoma, Geneva, sans-serif;line-height:normal;*zoom:1}
+      .section_ul a{color:#666;text-decoration:none}
+      .section_ul a:hover,
+      .section_ul a:active,
+      .section_ul a:focus{text-decoration:underline}
+      .section_ul em{font-style:normal}
+      .section_ul h2{margin:0;padding:10px 0 8px 13px;border-bottom:1px solid #ddd;font-size:12px;color:#333}
+      .section_ul h2 em{color:#cf3292}
+      .section_ul ul{margin:13px;padding:0;list-style:none}
+      .section_ul li{position:relative;margin:0 0 10px 0}
+      .section_ul li:after{display:block;clear:both;content:""}
+      .section_ul li .bu{float:left;margin:0 4px 0 0;color:#999}
+      .section_ul li a{float:left}
+      .section_ul li .time{float:right;clear:right;font-size:11px;color:#a8a8a8;white-space:nowrap}
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <nav>
+        <ul>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/">Home</a>
+          </li>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/about.html/">About</a>
+          </li>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/notice.html/">Notice</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="section_ul">
+        <h2>최신 <em>공지사항</em></h2>
+        <ul>
+          <li><span class="bu">›</span> <a href="#">까꿍1.</a><span class="time">2016.11.11 02:51</span></li>
+          <li><span class="bu">›</span> <a href="#">까꿍2.</a><span class="time">2016.11.11 02:51</span></li>
+          <li><span class="bu">›</span> <a href="#">까꿍3.</a><span class="time">2016.11.11 02:51</span></li>
+          <li><span class="bu">›</span> <a href="#">까꿍4.</a><span class="time">2016.11.11 02:51</span></li>
+          <li><span class="bu">›</span> <a href="#">까꿍5.</a><span class="time">2016.11.11 02:51</span></li>
+        </ul>
+      </div>
+      <footer>
+        <ul>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/">Home</a>
+          </li>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/about.html/">About</a>
+          </li>
+          <li>
+            <a href="http://daeguuniv.dothome.co.kr/notice.html/">Notice</a>
+          </li>
+        </ul>
+        <p>Copyright (c) 2016 Copyright LJW All Rights Reserved.</p>
+      </footer>
+    </div>
+  </body>
+</html>
