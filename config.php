@@ -1,15 +1,15 @@
 <?php
 
 
-$mysql_hostname = "localhost";
+$mysql_hostname = "xxx";
 
 
-$mysql_user = "daeguuniv";
+$mysql_user = "xxx";
 
-$mysql_password = "daeguuniv2016";
+$mysql_password = "xxx";
 
 
-$mysql_database = "daeguuniv";
+$mysql_database = "xxx";
 
 
 $bd = mysql_connect($mysql_hostname, $mysql_user, $mysql_password) or die("db connect error");
