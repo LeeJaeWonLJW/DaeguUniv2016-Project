@@ -14,3 +14,10 @@ EN:
    2. Modify some source for your settings.(like db id etc..)
    3. Upload your Server and Use everywhere!!
 </pre>
+
+# 사용된 언어 - Usage Language List #
+<pre>
+
+언어(Language) : PHP, MySQL, HTML, CSS
+데모(Demo) : http://daeguuniv.dothome.co.kr
+</pre>
