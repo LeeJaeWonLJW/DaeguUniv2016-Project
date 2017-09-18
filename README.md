@@ -7,7 +7,7 @@ EN: This project that planned by four people and produced by two people is a sim
 # 사용법 - How to use this Source #
 </br>
 KR: login 정보를 담는 db를 구축 후 일부 소스를 자신의 환경에 맞게 수정하여 사용합니다.</br>
-EN:
-  1. Make a DB to contain login values.</br>
-  2. Modify some source for your settings.(like db id etc..)</br>
-  3. Upload your Server and Use everywhere!!</br>
+EN:</br>
+   1. Make a DB to contain login values.</br>
+   2. Modify some source for your settings.(like db id etc..)</br>
+   3. Upload your Server and Use everywhere!!</br>
