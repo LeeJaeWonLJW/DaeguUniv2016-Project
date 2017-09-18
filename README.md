@@ -17,8 +17,6 @@ EN:
 </pre>
 
 # 사용된 언어 - Usage Language List #
-<pre>
 
-언어(Language) : PHP, MySQL, HTML, CSS
+언어(Language) : PHP, MySQL, HTML, CSS</br>
 데모(Demo) : [Click](http://daeguuniv.dothome.co.kr)
-</pre>
