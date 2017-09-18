@@ -19,5 +19,5 @@ EN:
 <pre>
 
 언어(Language) : PHP, MySQL, HTML, CSS
-데모(Demo) : <a href="http://daeguuniv.dothome.co.kr" _blank>http://daeguuniv.dothome.co.kr</a>
+데모(Demo) : <a href="http://daeguuniv.dothome.co.kr" target="_blank">http://daeguuniv.dothome.co.kr</a>
 </pre>
