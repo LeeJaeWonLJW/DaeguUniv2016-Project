@@ -5,6 +5,7 @@ KR: 4명이 기획하고 2명이 제작한 간단한 PHP 기반의 SQL Injection
 EN: This project that planned by four people and produced by two people is a simple site based on 'PHP'.
     This site was created to test 'SQL Injection'
 </pre>
+<hr/>
 # 사용법 - How to use this Source #
 <pre>
 
@@ -14,10 +15,10 @@ EN:
    2. Modify some source for your settings.(like db id etc..)
    3. Upload your Server and Use everywhere!!
 </pre>
-
+<hr/>
 # 사용된 언어 - Usage Language List #
 <pre>
 
 언어(Language) : PHP, MySQL, HTML, CSS
-데모(Demo) : <a href="http://daeguuniv.dothome.co.kr" target="_blank">http://daeguuniv.dothome.co.kr</a>
+데모(Demo) : <http://daeguuniv.dothome.co.kr">
 </pre>
