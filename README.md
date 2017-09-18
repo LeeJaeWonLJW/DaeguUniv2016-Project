@@ -20,5 +20,5 @@ EN:
 <pre>
 
 언어(Language) : PHP, MySQL, HTML, CSS
-데모(Demo) : <http://daeguuniv.dothome.co.kr>
+데모(Demo) : [Click](http://daeguuniv.dothome.co.kr)
 </pre>
